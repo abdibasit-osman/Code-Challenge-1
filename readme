@@ -1,0 +1,7 @@
+ Week 1 Code Challenge
+
+ Structure
+
+- `chaiCalculator/chai.js` — Challenge 1: Chai Calculator
+- `bodaFareCalculator/fare.js` — Challenge 2: Boda Boda Ride Fare Estimator
+- `mobileMoneyEstimator/fee.js` — Challenge 3: Mobile Money Transaction Fee Estimator
